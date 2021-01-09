@@ -6,4 +6,5 @@ This repository contains every python algorithm or algorithmic challange that I 
 
 ## Algorithms
 
-- `✔` [Euclidean Algorithm (GCD)](Algorithms/euclidean-algorithm/)
+- `✔` [Euclidean Algorithm (GCD)](Algorithms/euclidean-algorithm/main.py)
+- `✔` [Selection Sort](Algorithms/selection-sort/main.py)
