@@ -8,3 +8,4 @@ This repository contains every python algorithm or algorithmic challange that I 
 
 - `✔` [Euclidean Algorithm (GCD)](Algorithms/euclidean-algorithm/main.py)
 - `✔` [Selection Sort](Algorithms/selection-sort/main.py)
+- `✔` [Bubble Sort](Algorithms/bubble-sort/main.py)
